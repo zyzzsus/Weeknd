@@ -1,0 +1,26 @@
+nav{
+    position: absolute;
+    left: calc(50% - 190px);
+    top: 0px;
+    display: flex;
+    align-items: center;
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    gap: 4rem;
+}
+
+a{
+    position: relative;
+    top: 15px;
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 140.2%;
+    letter-spacing: 0.095em;
+}

@@ -1,0 +1,18 @@
+@font-face{
+  font-family: 'Libre Franklin';
+  src: local('Libre Franklin'), url(./assets/fonts/LibreFranklin-Black.ttf) format('truetype');
+
+}
+@font-face{
+  font-family: 'Roboto Mono';
+  src: local('Roboto Mono'), url(./assets/fonts/RobotoMono-Regular.ttf) format('truetype');
+
+}
+*{
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #0A0A0A;
+}

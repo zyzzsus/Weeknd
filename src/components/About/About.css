@@ -1,0 +1,31 @@
+.info{
+    color: #fff;
+    position: absolute;
+    top: 260px;
+    right: 200px;
+}
+.image{
+    position: relative;
+    top: 307px;
+}
+.name{
+    font-family: 'Libre Franklin';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 79.8044px;
+    line-height: 97px;
+    letter-spacing: -0.04em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+.about{
+    width: 550px;
+    height: 276px;
+    font-family: 'Roboto Mono';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16.5609px;
+    line-height: 150.2%;
+    letter-spacing: -0.01em;
+    color: #FFFFFF;
+}
